@@ -18,5 +18,5 @@
 
 
 ## Пример изображения
-![Output](\2023-10-05_20-58-08.png)
+![Output](https://github.com/novoselov-ie/OpenCV/blob/master/2023-10-05_20-58-08.png)
 
